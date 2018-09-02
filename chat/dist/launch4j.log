@@ -1,0 +1,26 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Lenovo\Documents\NetBeansProjects\chat\dist\Jmessenger.exe --l4j-debug
+WOW64:		yes
+Java min ver:	1.000.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_161\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_161
+Check launcher:	C:\Program Files\Java\jre1.8.0_161\bin\javaw.exe (OK)
+Match:		1.008.000_161
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_112
+Ignore:		1.008.000_112
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_161 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_161\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Lenovo\Documents\NetBeansProjects\chat\dist\Jmessenger.exe"
+Args length:	74/32768 chars
+Exit code:	0
